@@ -1,0 +1,12 @@
+body{
+    background: red;
+    color: white;
+}
+img{
+    border: 10px white groove;
+
+}
+form{
+    text-align: center;
+    border: 20px yellow dotted;
+}
